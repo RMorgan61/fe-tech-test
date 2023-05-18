@@ -47,10 +47,10 @@ export default function Home() {
             Create a function that returns whether a passed string is a
             palindrome
           </QuestionText>
-          <AnswerText>&quot;kayak&quot; = {isPalindrome("kayak")}</AnswerText>
-          <AnswerText>&quot;United&quot; = {isPalindrome("United")}</AnswerText>
+          <AnswerText>&quot;kayak&quot; = {isPalindrome("kayak").toString()}</AnswerText>
+          <AnswerText>&quot;United&quot; = {isPalindrome("United").toString()}</AnswerText>
           <AnswerText>
-            &quot;Racecar&quot; = {isPalindrome("Racecar")}
+            &quot;Racecar&quot; = {isPalindrome("Racecar").toString()}
           </AnswerText>
         </Card>
         <Card>
