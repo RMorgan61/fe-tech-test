@@ -13,3 +13,6 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+The project contains 3 coding challenges that require the creation of functions in the functions.tsx file to solve the challenges
